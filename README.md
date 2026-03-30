@@ -1,0 +1,2 @@
+# azure_data_dactory_sptfy
+data_factory_project
