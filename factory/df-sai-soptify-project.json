@@ -1,0 +1,9 @@
+{
+	"name": "df-sai-soptify-project",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8e50c6ec-df1a-43b1-838f-81d3396d483b",
+		"tenantId": "f8326ec8-9e5a-4ed2-a2fe-0da031245215"
+	}
+}
